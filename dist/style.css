@@ -311,3 +311,7 @@ img {
     left: 50%;
     transform: translateX(-50%);
 }
+    .location-text p {
+        font-size: 24px; /* Increase this number for even bigger text */
+        font-weight: bold; /* Optional: makes it bolder */
+    }
